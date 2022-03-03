@@ -25,14 +25,14 @@ header a:hover{
     color: #580148;
 }
 #btn1 {
-    border: 3px solid #580148;
+    border: 1px solid #580148;
     color: #580148;
 }
 p {
     font-weight: 300;
 }
 .btn {
-    border: 3px solid #580148;
+    border: 1px solid #580148;
     color: #580148;
 }
 .card-btn:hover {
@@ -232,6 +232,13 @@ hr{
 }
 #projects .card {
     margin: 30px;
+}
+.hashtags {
+    font-size: 11px;
+    list-style-type: none;
+    display: inline;
+    margin: auto 6px;
+    color: #43061e5e;
 }
 
 /*footer section*/
